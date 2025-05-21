@@ -1,6 +1,6 @@
 # # 👋 Friendly, time-saving chatbots 
 
-Welcome to my GitHub! I'm the founder of **Pulse Lab UK**, where technology meets innovation.
+Welcome to my GitHub! We are **Pulse Lab UK**, where technology meets innovation.
 
 ---
 
