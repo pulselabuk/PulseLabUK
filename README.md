@@ -28,7 +28,7 @@ At Pulse Lab UK, we provide transformative digital solutions for businesses.
 
 ## 📢 Let's Connect!
 
-▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH)  
+▶ Support: Join our [Discord](https://discord.gg/J9kVfvAYeH)  
 📧 Business Inquiries: [hello@pulselab.co.uk](mailto:hello@pulseitinnovate.uk)  
 
 ---
