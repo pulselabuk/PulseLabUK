@@ -10,13 +10,15 @@ At Pulse Lab UK, we provide transformative digital solutions for businesses.
 
 ### 💼 What We Offer
 
-- 🔧 **Automation Solutions** — Chatbots and workflows to increase efficiency and cut costs  
-- ☁️ **Web Hosting** — Fast, secure, 99.9% uptime guarantee  
-- 🎨 **Web Design** — Beautiful, responsive websites that convert  
-- 🔍 **SEO Services** — Data-driven SEO to boost visibility  
-- 🌐 **DNS Management** — Reliable DNS configuration and control  
-- 🤖 **AI Integration** — Bespoke AI solutions for your business  
-- 🛒 **Shopify Stores** — Custom e-commerce sites that sell
+🤖🔧 AI & Automation — Smart bots + workflows to boost efficiency & cut costs
+
+☁️🌐 Hosting & DNS — Fast, secure hosting with full DNS control
+
+🎨🛒 Web & Shopify Design — Stunning, responsive sites that sell
+
+🔍📈 SEO & Visibility — Data-driven strategies to rank higher
+
+
 
 ---
 
