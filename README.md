@@ -1,6 +1,6 @@
 # # 👋 Friendly, time-saving chatbots 
 
-We are **Pulse Lab UK**, where technology meets innovation.
+**Pulse Lab UK**, where technology meets innovation.
 
 ---
 
