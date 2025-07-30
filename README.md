@@ -6,7 +6,7 @@
 
 ## 🚀 Pulse Lab UK
 
-At Pulse Lab UK, we provide next-level digital solutions for businesses. 
+At Pulse Lab UK, we provide next-level digital solutions for your website. 
 
 ### 💼 What We Offer
 
