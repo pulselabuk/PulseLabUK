@@ -35,4 +35,4 @@ At Pulse Lab UK, we provide next-level digital solutions for your website.
 
 ---
 
-Thanks for stopping by! Together, we can build something incredible. **💡**
+Thanks for stopping by! Let's build your next project. **💡**
