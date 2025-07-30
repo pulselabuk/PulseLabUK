@@ -10,13 +10,13 @@ At Pulse Lab UK, we provide next-level digital solutions for your website.
 
 ### 💼 What We Offer
 
-🤖🔧 AI & Automation — Smart bots + workflows to boost efficiency & cut costs
+AI & Automation — Smart bots + workflows to boost efficiency & cut costs 🤖🔧 
 
-☁️🌐 Hosting & DNS — Fast, secure hosting with full DNS control
+Hosting & DNS — Fast, secure hosting with full DNS control ☁️🌐 
 
-🎨🛒 Web & Shopify Design — Stunning, responsive sites that sell
+Web & Shopify Design — Stunning, responsive sites that sell 🎨🛒 
 
-🔍📈 SEO & Visibility — Data-driven strategies to rank higher
+SEO & Visibility — Data-driven strategies to rank higher 🔍📈 
 
 
 
