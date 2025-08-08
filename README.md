@@ -1,12 +1,12 @@
 # # 👋 Chatbots | Web Development 
 
-**Pulse Lab UK** — clever coding for better results.
+**PulseLab UK** — clever coding for better results.
 
 ---
 
-## 🚀 Pulse Lab UK
+## 🚀 PulseLab UK
 
-At Pulse Lab UK, we provide next-level digital solutions for your website. 
+At PulseLab UK, we provide next-level digital solutions for your website. 
 
 ### 💼 What We Offer
 
