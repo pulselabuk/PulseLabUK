@@ -8,7 +8,7 @@
 
 At PulseLab UK, we provide next-level digital solutions for your website. 
 
-### 💼 What We Offer
+### What We Offer 💼 
 
 **AI & Automation** — Smart bots + workflows to boost efficiency & cut costs 🤖🔧 
 
