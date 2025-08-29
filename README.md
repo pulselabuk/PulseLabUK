@@ -14,7 +14,7 @@ At PulseLab UK, we provide next-level digital solutions for your website.
 
 **Hosting & DNS** — Fast, secure hosting with full DNS control ☁️🌐 
 
-**Web & Shopify Design** — Stunning, responsive sites that sell 🎨🛒 
+**Web & Shopify Design** — Stunning, responsive sites 🎨🛒 
 
 **SEO & Visibility** — Data-driven strategies to rank higher 🔍📈 
 
