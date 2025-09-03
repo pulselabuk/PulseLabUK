@@ -6,7 +6,7 @@
 
 ## PulseLab UK
 
-At PulseLab UK, we provide next-level digital solutions for your website. 
+Next-level digital solutions for your website. 
 
 ### What We Offer 💼 
 
