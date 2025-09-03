@@ -35,4 +35,4 @@ Next-level digital solutions for your website.
 
 ---
 
-Thanks for stopping by! Let's build your next project. **💡**
+Let's build your next project. **💡**
