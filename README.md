@@ -22,7 +22,7 @@ Next-level digital solutions for your website.
 
 ---
 
-## 🌐 Online Presence
+## Online Presence
 
 🌐 Website: [Website](https://pulselab.co.uk)  
 
