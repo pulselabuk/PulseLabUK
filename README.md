@@ -1,6 +1,6 @@
 # # Chatbots | Web Development 
 
-**PulseLab UK** — clever coding for better results.
+Clever coding for better results.
 
 ---
 
