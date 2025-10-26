@@ -6,11 +6,11 @@
 
 ### What We Offer 💼 
 
+**Web Development** — Stunning, responsive sites
+
 **AI & Automation** — Smart bots + workflows to boost efficiency & cut costs
 
 **Hosting & DNS** — Fast, secure hosting with full DNS control 
-
-**Web Development** — Stunning, responsive sites
 
 **SEO & Visibility** — Data-driven strategies to rank higher
 
