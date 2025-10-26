@@ -1,6 +1,6 @@
 # # Web Development Solutions
 
-Clever coding for better results.
+Connecting businesses to developers for clever solutions.
 
 ---
 
