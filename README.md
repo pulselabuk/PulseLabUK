@@ -1,7 +1,5 @@
 # # Web Development Solutions
 
-Connecting businesses to vetted developers for better results.
-
 ---
 
 ## PulseLab UK
