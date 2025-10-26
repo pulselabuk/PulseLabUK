@@ -10,7 +10,7 @@
 
 **Hosting & DNS** — Fast, secure hosting with full DNS control 
 
-**Web & Shopify Design** — Stunning, responsive sites
+**Web Development** — Stunning, responsive sites
 
 **SEO & Visibility** — Data-driven strategies to rank higher
 
