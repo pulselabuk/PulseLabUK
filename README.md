@@ -1,6 +1,6 @@
 # # Web Development Solutions
 
-Connecting businesses to developers for clever solutions.
+Connecting businesses to vetted developers for better results.
 
 ---
 
