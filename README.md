@@ -6,8 +6,6 @@ Connecting businesses to developers for clever solutions.
 
 ## PulseLab UK
 
-Next-level digital solutions for your website. 
-
 ### What We Offer 💼 
 
 **AI & Automation** — Smart bots + workflows to boost efficiency & cut costs
